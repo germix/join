@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "join", "join.vcproj", "{F429A405-D4FA-4838-91B1-3C546360ABEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F429A405-D4FA-4838-91B1-3C546360ABEE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F429A405-D4FA-4838-91B1-3C546360ABEE}.Debug|Win32.Build.0 = Debug|Win32
+		{F429A405-D4FA-4838-91B1-3C546360ABEE}.Release|Win32.ActiveCfg = Release|Win32
+		{F429A405-D4FA-4838-91B1-3C546360ABEE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
